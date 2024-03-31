@@ -1,3 +1,3 @@
 select * from persons
 where age > 27
-order by desc
+order by age desc
